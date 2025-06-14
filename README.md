@@ -1,16 +1,14 @@
-## Hi there 👋
+![pink binary heart](https://img.freepik.com/premium-photo/digital-heart-made-glowing-binary-code-with-pink-background_14117-1153382.jpg?w=360)
 
-<!--
-**katelyn-bailey/katelyn-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Katelyn! ✨  
+## Lifelong Learner with a Passion for Mathematics and Data 💗
 
-Here are some ideas to get you started:
+🎓 **M.S. in Data Science** (Aug 2025)  🎓 **B.S. in Mathematics** (May 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently working through a mix of mini class projects and an internship.  
+🌱 Growing my skills in **R**, **Python**, **Tableau**, and **data storytelling**!
+
+🎨 On the lookout for ways to tell stories that matter through data! <br>
+🧠 Forever curious & learning something new :) 
+
+📫 *Let’s connect!* [LinkedIn](https://www.linkedin.com/in/katelynhbbailey)
