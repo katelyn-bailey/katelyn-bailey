@@ -1,14 +1,1 @@
-![pink binary heart](https://img.freepik.com/premium-photo/digital-heart-made-glowing-binary-code-with-pink-background_14117-1153382.jpg?w=360)
-
-### Hi, I'm Katelyn! ✨  
-## Lifelong Learner with a Passion for Mathematics and Data 💗
-
-🎓 **M.S. in Data Science** (Aug 2025)  🎓 **B.S. in Mathematics** (May 2024)
-
-💻 Currently working through a mix of mini class projects and an internship.  
-🌱 Growing my skills in **R**, **Python**, **Tableau**, and **data storytelling**!
-
-🎨 On the lookout for ways to tell stories that matter through data! <br>
-🧠 Forever curious & learning something new :) 
-
-📫 *Let’s connect!* [LinkedIn](https://www.linkedin.com/in/katelynhbbailey)
+<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-f338-6230-8ac7-5120e3076cda/raw?se=2025-06-21T09%3A36%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=579bf0b5-bbf2-58b4-9ad1-9132ee4e4f02&skoid=61180a4f-34a9-42b7-b76d-9ca47d89946d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-20T18%3A38%3A50Z&ske=2025-06-21T18%3A38%3A50Z&sks=b&skv=2024-08-04&sig=XoC8rdU1VTwm92bO1HBF49VhhOoB65VohKONLYZTk0U%3D" width="100%" />
